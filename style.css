@@ -44,6 +44,6 @@ left:-200px;
   -webkit-transition:all 0.5s;
 }
 .sidebar a:hover {
-  background-color:lightgray;
+  background-color:blue;
   padding:10px;
 }
