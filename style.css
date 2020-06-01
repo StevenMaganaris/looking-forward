@@ -7,15 +7,6 @@ body {
   margin-right:auto;
   display:block;
 }
-.header {
- width:100%;
- background-color:rgb(:red);
- height:10vh;
- color:black;
- text-align:center;
- font-size:2em;
- padding-top:15px;
-}
 .back {
   width:10%;
   background-color:#f59842;
