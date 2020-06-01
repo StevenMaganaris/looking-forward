@@ -47,21 +47,3 @@ left:-200px;
   background-color:lightgray;
   padding:10px;
 }
-.textpage1 {
-  width:30%;
-  background-color:red;
-  height:82%;
-  margin-left:auto;
-  margin-right:auto;
-  text-align:center;
-  padding:10px;
-  font-size:20px;
-}
-.text {
-  width:30%;
-  height:82%;
-  float:left;
-  background-color:red;
-  text-align:center;
-  padding:10px;
-  font-size:20px;
